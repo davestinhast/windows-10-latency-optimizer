@@ -1,4 +1,4 @@
-# latency-optimizer
+# Windows 10 Latency Optimizer
 
 A command-line Windows 10 latency optimization tool. No installer, no GUI, no telemetry, no network connections. Run it from an elevated CMD, choose what to apply, restart.
 
