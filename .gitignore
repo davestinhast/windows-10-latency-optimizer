@@ -1,0 +1,7 @@
+latency.exe
+daemon.pid
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
